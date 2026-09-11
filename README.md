@@ -39,6 +39,11 @@ Person1.Print();
 Person1.SendEmail("Hi", "How are you?");
 Person1.SendSMS("How are you?");
 ```
+
+## Output
+
+![Program Output](output.png)
+
 ## Requirements
 
 - Visual Studio 2022 or any C++ compiler supporting C++11 or later.
